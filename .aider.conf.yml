@@ -1,0 +1,8 @@
+# Aider settings for the asset library (run aider from the repository root).
+# Models, architect/editor choices and API keys are yours to set, e.g. in ~/.aider.conf.yml.
+# .aiderignore hides the asset files themselves; the AI works from the catalogue.
+
+# Every request gets the agent rules and the catalogue, read-only.
+read:
+  - AGENTS.md
+  - CATALOGUE.md

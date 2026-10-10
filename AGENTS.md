@@ -18,3 +18,12 @@ It's kept here as a source for the **Kanto City** ROM hack (the `Kanto-City` rep
     can't share a map connection with FRLG-format maps. See "Tilesets" in `KANTO_CITY.md`.
 - **Credits:** every pack's README names who to credit. Carry the credits over to `KANTO_CITY.md`
   when an asset is used.
+
+## Using Aider
+
+`.aider.conf.yml` makes every request include `AGENTS.md` and `CATALOGUE.md` as read-only files.
+`.aiderignore` hides the ~16,000 asset files, so Aider sees only the catalogue, the packs' README and
+credits files, and `tools/` (about 280 files).
+- Run Aider from the repository root.
+- To open an asset, use `/read-only PATH`. Images work with a vision model. `/add` refuses ignored
+  files.

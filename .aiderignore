@@ -1,0 +1,8 @@
+# Aider: which files the AI sees (the repo map, /add). Gitignore syntax.
+# This is an asset library: the AI works from CATALOGUE.md and the packs' README/credits files,
+# not the ~16,000 asset files. Open any asset with /read-only PATH (images work with vision models).
+*
+!*.md
+!/tools/**
+!/.aiderignore
+!/.aider.conf.yml

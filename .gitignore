@@ -1,2 +1,7 @@
 *:Zone.Identifier
 *.DS_Store
+# Aider's local files (listing them here stops Aider asking to add .aider* to this file)
+/.aider
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.v*/
