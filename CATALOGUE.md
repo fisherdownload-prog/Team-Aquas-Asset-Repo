@@ -290,7 +290,7 @@ The Great Tileset Exchange
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Pyramid Interior Primary` | Emerald, triple-layer, 208 metatiles | Pyramid Interior Primary |
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Pyramid Interior Secondary` | Emerald, triple-layer, 512 metatiles | Pyramid Interior Secondary tileset (WIP) |
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Sewer (Clear water) Secondary` | Emerald, triple-layer, 256 metatiles | Sewer (clear water) secondary tileset |
-| `Tilesets/The Great Tileset Exchange/Full Tilesets/Sewer Secondary` | Emerald, triple-layer, 256 metatiles | Sewer secondary tileset |
+| `Tilesets/The Great Tileset Exchange/Full Tilesets/Sewer Secondary` | Emerald, triple-layer, 256 metatiles | Sewer secondary tileset ⭐ The base of the Underground primary tileset every abandoned station shares (Green Station onwards). Copied whole into Kanto-City data/tilesets/primary/underground by dev_scripts/kanto_city/build_underground_tileset.py. |
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Shady Forest Secondary` | Emerald, triple-layer, 512 metatiles | Shady Forest Secondary |
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Small town with lab Secondary` | Emerald, triple-layer, 256 metatiles | Small town with lab and parts of train station tiles (secondary) |
 | `Tilesets/The Great Tileset Exchange/Full Tilesets/Space Meteor Secondary` | Emerald, triple-layer, 256 metatiles | Space/meteor Seconadry tileset (secondary) |

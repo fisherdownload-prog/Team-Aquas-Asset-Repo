@@ -1,3 +1,4 @@
 {
-  "Tilesets/The Great Tileset Exchange/Full Tilesets/Brick City Secondary": "Pallet Docks and Pallet's back gardens. Copied to Kanto-City data/tilesets/secondary/brick_city; terrace metatiles also ported into viridian_city_frlg."
+  "Tilesets/The Great Tileset Exchange/Full Tilesets/Brick City Secondary": "Pallet Docks and Pallet's back gardens. Copied to Kanto-City data/tilesets/secondary/brick_city; terrace metatiles also ported into viridian_city_frlg.",
+  "Tilesets/The Great Tileset Exchange/Full Tilesets/Sewer Secondary": "The base of the Underground primary tileset every abandoned station shares (Green Station onwards). Copied whole into Kanto-City data/tilesets/primary/underground by dev_scripts/kanto_city/build_underground_tileset.py."
 }
