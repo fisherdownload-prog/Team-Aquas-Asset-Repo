@@ -1,5 +1,5 @@
 {
   "Tilesets/The Great Tileset Exchange/Full Tilesets/Brick City Secondary": "Pallet Docks and Pallet's back gardens. Copied to Kanto-City data/tilesets/secondary/brick_city; terrace metatiles also ported into viridian_city_frlg.",
   "Tilesets/The Great Tileset Exchange/Full Tilesets/Sewer Secondary": "The base of the Underground primary tileset every abandoned station shares (Green Station onwards). Copied whole into Kanto-City data/tilesets/primary/underground by dev_scripts/kanto_city/build_underground_tileset.py.",
-  "Tilesets/Other Tilesets/Voluptuas Collected Tilesets": "Route 11's freight yard: the shipping containers (blue, red, yellow and green, lying and standing) and the diesel shunting locomotive from 6.png, copied whole into Kanto-City's power_plant_frlg tileset by dev_scripts/kanto_city/build_freight_yard_tileset.py."
+  "Tilesets/Other Tilesets/Voluptuas Collected Tilesets": "Route 11's freight yard: the yellow shipping containers (lying and standing) and the diesel shunting locomotive from 6.png, copied whole into Kanto-City's power_plant_frlg tileset by dev_scripts/kanto_city/build_freight_yard_tileset.py."
 }
