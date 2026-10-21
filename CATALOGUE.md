@@ -307,7 +307,7 @@ Image-only tile packs (no metatiles; you have to assemble the tileset yourself):
 - `Tilesets/Other Tilesets/Ewraz Collected Tilesets`: 1 md, 1 png. Erawz Tileset Collection
 - `Tilesets/Other Tilesets/Roger Wrightshoe`: 9 png, 1 md. Assorted Tilesets
 - `Tilesets/Other Tilesets/Sacred Phoenix`: 3 png, 1 md. From Anarlaurendil on DeviantArt https://www.deviantart.com/anarlaurendil/art/Alienor-Tileset-v2-Pokemon-Sacred-Phoenix-900827294
-- `Tilesets/Other Tilesets/Voluptuas Collected Tilesets`: 20 png, 1 md. Asset type (Tileset, Tilesheet, Tiles)
+- `Tilesets/Other Tilesets/Voluptuas Collected Tilesets`: 20 png, 1 md. Asset type (Tileset, Tilesheet, Tiles) ⭐ Route 11's freight yard: the shipping containers (blue, red, yellow and green, lying and standing) and the diesel shunting locomotive from 6.png, copied whole into Kanto-City's power_plant_frlg tileset by dev_scripts/kanto_city/build_freight_yard_tileset.py.
 - `Tilesets/The Great Tileset Exchange/Individual Tiles`: 28 png, 3 md. Random Assortment of sprites to be used in your tilesets
 
 ## Trainer Back Sprites

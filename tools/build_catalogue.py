@@ -111,7 +111,8 @@ def main():
                 has_meta = any('metatiles.bin' in f for _, _, f in os.walk(d))
                 depth = rel(d).count(os.sep)
                 if depth == 2 and not has_meta:
-                    sec.append(f'- `{rel(d)}`: {kinds(files_under(d))}. {readme_summary(d)}')
+                    star = ' ⭐ ' + usage[rel(d)] if rel(d) in usage else ''
+                    sec.append(f'- `{rel(d)}`: {kinds(files_under(d))}. {readme_summary(d)}{star}')
         else:
             sec += ['| Pack | Contents | Summary |', '| --- | --- | --- |']
             for p in packs:
